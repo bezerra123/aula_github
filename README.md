@@ -10,3 +10,7 @@ Curso de GitHub
 
 \## Episódio 02 - instação ambiente mac
 
+
+
+\## Episódio 03 - instação linux
+
