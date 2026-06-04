@@ -4,9 +4,13 @@ Curso de GitHub
 
 
 
-\## Aula 01
+\## Aula 01 - instalaçai windows
 
 
 
-\## Episódio
+\## Episódio 02 - instação ambiente mac
+
+
+
+\## Episódio 03 - instação linux
 
