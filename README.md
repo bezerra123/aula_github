@@ -8,5 +8,5 @@ Curso de GitHub
 
 
 
-\## Episódio
+\## Episódio 02 - instação ambiente mac
 
